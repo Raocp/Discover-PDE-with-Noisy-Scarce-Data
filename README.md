@@ -8,7 +8,7 @@ By [Chengping Rao](https://scholar.google.com/citations?user=29DpfrEAAAAJ&hl=en)
 
 # Results overview
 
-![](https://github.com/Raocp/PINN-laminar-flow/blob/master/PINN_steady/uvp.png)
+![](https://github.com/Raocp/Discover-PDE-with-Noisy-Scarce-Data/blob/main/Gallery/Slide2.JPG)
 
 > Network architecture
 
