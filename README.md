@@ -6,7 +6,7 @@ Paper link: [[ArXiv](https://arxiv.org/abs/2201.12354)]
 
 By [Chengping Rao](https://scholar.google.com/citations?user=29DpfrEAAAAJ&hl=en), [Pu Ren](https://scholar.google.com/citations?user=7FxlSHEAAAAJ&hl=en), [Yang Liu](https://coe.northeastern.edu/people/liu-yang/), [Hao Sun](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20210163&ln=en)
 
-# Results overview
+# Methodology overview
 
 ![](https://github.com/Raocp/Discover-PDE-with-Noisy-Scarce-Data/blob/main/Gallery/Slide2.JPG)
 
@@ -19,7 +19,7 @@ By [Chengping Rao](https://scholar.google.com/citations?user=29DpfrEAAAAJ&hl=en)
 
 # Stage-1: data reconstruction
 
-This step uses the same rountine of https://github.com/Raocp/PeRCNN. 
+In Stage-1, we use a physics-encoded recurrent network to reconstruct the high-fidelity data. This step uses the same rountine of https://github.com/Raocp/PeRCNN. 
 
 # Stage-2: sparse regression
 
