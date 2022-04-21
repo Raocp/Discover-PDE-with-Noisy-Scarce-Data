@@ -10,8 +10,12 @@ By [Chengping Rao](https://scholar.google.com/citations?user=29DpfrEAAAAJ&hl=en)
 
 ![](https://github.com/Raocp/Discover-PDE-with-Noisy-Scarce-Data/blob/main/Gallery/Slide2.JPG)
 
-> Network architecture
+> Three stages of governing equation discovery process
 
+
+![](https://github.com/Raocp/Discover-PDE-with-Noisy-Scarce-Data/blob/main/Gallery/Slide3.JPG)
+
+> Two types of physics-encoded recurrent network (a. partial physics known; c. physics completely known.)
 
 # Stage-1: data reconstruction
 
