@@ -2,6 +2,16 @@
 ICLR2022: Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning
 
 
+Paper link: [[ArXiv](https://arxiv.org/abs/2201.12354)] 
+
+By [Chengping Rao](https://scholar.google.com/citations?user=29DpfrEAAAAJ&hl=en), [Pu Ren](https://scholar.google.com/citations?user=7FxlSHEAAAAJ&hl=en), [Yang Liu](https://coe.northeastern.edu/people/liu-yang/), [Hao Sun](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20210163&ln=en)
+
+# Results overview
+
+![](https://github.com/Raocp/PINN-laminar-flow/blob/master/PINN_steady/uvp.png)
+
+> Network architecture
+
 
 # Stage-1: data reconstruction
 
